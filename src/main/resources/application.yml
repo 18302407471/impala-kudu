@@ -1,7 +1,7 @@
 impala:
-  url: jdbc:impala://10.103.130.146
+  url: jdbc:impala://ip
   port: 21050
-  schema: kududb
+  schema: 数据库
   user:
   password:
   driverClass: org.apache.hive.jdbc.HiveDriver
